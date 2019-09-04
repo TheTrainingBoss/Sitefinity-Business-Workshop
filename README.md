@@ -20,7 +20,9 @@ Sitefinity Business Workshop
 > the author be liable for any loss of profit or any other commercial
 > damage caused or alleged to have been caused directly or indirectly by
 > this document
->
+
+![](../media/sitefinity%20Training.png)
+
 #### Table of Contents
 
 [Introduction](./Introduction/readme.md)
