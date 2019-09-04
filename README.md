@@ -21,7 +21,7 @@ Sitefinity Business Workshop
 > damage caused or alleged to have been caused directly or indirectly by
 > this document
 
-![](../media/SitefinityTraining.png)
+![](./media/SitefinityTraining.png)
 
 #### Table of Contents
 
