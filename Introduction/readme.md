@@ -32,3 +32,6 @@ Introduction
 > point-and-click, drag-and-drop. Sitefinity is completely extensible so
 > that developers can integrate with 3rd party packages (e.g.
 > Salesforce), add new custom widgets and modules.
+
+**Next Topic**
+[Getting Started](../Getting%20Started/readme.md)
