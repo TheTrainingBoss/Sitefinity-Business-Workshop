@@ -59,8 +59,8 @@ From the Actions menu you can:
 
 ##### Creating Projects
 
-> Sitefinity projects can be created using major technology platforms
-> for websites including:
+Sitefinity projects can be created using major technology platforms
+for websites including:
 
 -   Right in your own local file system.
 
@@ -69,27 +69,27 @@ From the Actions menu you can:
 -   Remotely, through a FTP (File Transfer Protocol) or HTTP (Hypertext
     Transfer Protocol).
 
-> The Sitefinity Project Manager makes it easy to get started building
-> your own websites in a local, demo environment. You don\'t have to use
-> IIS (Internet Information Services) or spend days making sure the web
-> site will work. The Sitefinity installation includes everything you
-> need to get started building your website.
->
+The Sitefinity Project Manager makes it easy to get started building
+your own websites in a local, demo environment. You don\'t have to use
+IIS (Internet Information Services) or spend days making sure the web
+site will work. The Sitefinity installation includes everything you
+need to get started building your website.
+
 #### Note: 
-> The project manager is intended to let you try out and get
-> familiar with Sitefinity CMS quickly and easily. Putting your project
-> on a production server is an administration task. For more
-> information, please see the online documentation
-> [Deployment](http://docs.sitefinity.com/deployment) or
-> look for book for Sitefinity for Admins and Designers.
+The project manager is intended to let you try out and get
+familiar with Sitefinity CMS quickly and easily. Putting your project
+on a production server is an administration task. For more
+information, please see the online documentation
+[Deployment](http://docs.sitefinity.com/deployment) or
+look for book for Sitefinity for Admins and Designers.
 
 ##### Creating a Minimal Sitefinity Website
 
-> This section will walk you through, step-by-step, to create a minimal
-> Sitefinity website stored in your local file system. In this example
-> we\'re not going to go into the details, but simply go through the
-> steps. This project will be launched automatically after completing
-> the steps.
+This section will walk you through, step-by-step, to create a minimal
+Sitefinity website stored in your local file system. In this example
+we\'re not going to go into the details, but simply go through the
+steps. This project will be launched automatically after completing
+the steps.
 
 ##### Creating a Project
 
@@ -119,9 +119,9 @@ From the Actions menu you can:
 5.  Select the Sitefinity edition that fits the requirements of your
     project. The
 
-> [Compare All Editions](http://www.sitefinity.com/editions) link navigates to
-> [[http://www.sitefinity.com/editions]](http://www.sitefinity.com/editions)
-> where a matrix compares product capabilities, licensing and pricing.
+[Compare All Editions](http://www.sitefinity.com/editions) link navigates to
+[[http://www.sitefinity.com/editions]](http://www.sitefinity.com/editions)
+where a matrix compares product capabilities, licensing and pricing.
 
 ![](../media/image6.png)
 
@@ -138,10 +138,10 @@ From the Actions menu you can:
 
 ![](../media/image8.png)
 
-> The new project will be added to the list in the Sitefinity Project
-> Manager. It may take a minute before the project shows in the Project
-> Manager. At this point Sitefinity has created everything needed for
-> the website except for the database.
+The new project will be added to the list in the Sitefinity Project
+Manager. It may take a minute before the project shows in the Project
+Manager. At this point Sitefinity has created everything needed for
+the website except for the database.
 
 8.  The Status column for the project will update briefly, then a
     browser window will open to display the Project Startup screen. The
@@ -154,14 +154,14 @@ From the Actions menu you can:
 
 
 #### Note: 
-> If you have a full version of SQL Server installed, click
-> the Microsoft SQL Server option. You will need to provide
-> authentication information, the Server and Database names before
-> clicking the continue button. If you don\'t have SQL Server Express,
-> you can download it from www.microsoft.com/express/database/
-> Each database type will have its own set of authentication entry
-> requirements. The screenshot below shows the entries required for
-> each.
+If you have a full version of SQL Server installed, click
+the Microsoft SQL Server option. You will need to provide
+authentication information, the Server and Database names before
+clicking the continue button. If you don\'t have SQL Server Express,
+you can download it from www.microsoft.com/express/database/
+Each database type will have its own set of authentication entry
+requirements. The screenshot below shows the entries required for
+each.
 
 ![](../media/image11.png)
 
@@ -189,7 +189,7 @@ From the Actions menu you can:
 
 ##### Creating a Page
 
-> The next steps will help you create a welcome page for your website.
+The next steps will help you create a welcome page for your website.
 
 1.  From the administration site, click the Pages menu option.
 
@@ -251,58 +251,58 @@ From the Actions menu you can:
     localhost address, followed by the project name, then the page name,
     i.e.
 
-> */CarConduit/welcome*. Also the title Welcome to CarConduit appears at
-> the top of the page. Finally, the content *Welcome to CarConduit!*
-> displays in the page body.
+*/CarConduit/welcome*. Also the title Welcome to CarConduit appears at
+the top of the page. Finally, the content *Welcome to CarConduit!*
+displays in the page body.
 
 ![](../media/image29.png)
 
 ##### Setting the Default Home Page
 
-> How do you set a default landing page to display when the user enters
-> the website in the browser address bar?
+How do you set a default landing page to display when the user enters
+the website in the browser address bar?
 
 1.  In the Administration list of pages, click the Actions drop down
     list and select the Set as Homepage link.
 
 ![](../media/image30.jpeg)
 
-> Notice that the home icon appears next to the page name.
+Notice that the home icon appears next to the page name.
 
 ![](../media/image32.png)
 
 2.  Click the Live site button at the top right of the screen.
 
-> The default page displays automatically without having to write out
-> the complete URL in the browser address bar.
+The default page displays automatically without having to write out
+the complete URL in the browser address bar.
 
 ![](../media/image34.png)
 
 
 ##### Dashboard
 
-> The Dashboard is the first visible page when you navigate to
-> Sitefinity administration. The Dashboard has a main menu across the
-> top, links to a Getting Started video and documentation below that and
-> a series of panels with an Analytics timeline, a summary of your most
-> recent content, a summary of everyone's content and a listing of
-> recent blog posts.
+The Dashboard is the first visible page when you navigate to
+Sitefinity administration. The Dashboard has a main menu across the
+top, links to a Getting Started video and documentation below that and
+a series of panels with an Analytics timeline, a summary of your most
+recent content, a summary of everyone's content and a listing of
+recent blog posts.
 
 ![](../media/image35.jpeg)
 
 ##### About Pages and Content
 
-> Sitefinity websites are built from two major pieces: pages and
-> content. *Pages* are containers of data. *Content* is the data that
-> will be placed in the containers. Once you create a page, the page
-> goes straight into the database. Likewise, any content you create is
-> saved immediately into the database. You can backup and restore the
-> database and automatically recreate your entire website.
+Sitefinity websites are built from two major pieces: pages and
+content. *Pages* are containers of data. *Content* is the data that
+will be placed in the containers. Once you create a page, the page
+goes straight into the database. Likewise, any content you create is
+saved immediately into the database. You can backup and restore the
+database and automatically recreate your entire website.
 
 ##### Front End vs. Back End
 
-> Pages and content can be placed in either *front-end* or *back-end*
-> locations. *Front-end* refers to the live published site that the end
-> user will see. *Back-end* refers to the administration portion that is
-> used to create sites in Sitefinity. The back-end is hidden from the
-> user.
+Pages and content can be placed in either *front-end* or *back-end*
+locations. *Front-end* refers to the live published site that the end
+user will see. *Back-end* refers to the administration portion that is
+used to create sites in Sitefinity. The back-end is hidden from the
+user.
