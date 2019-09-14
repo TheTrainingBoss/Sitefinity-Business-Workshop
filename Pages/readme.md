@@ -1,25 +1,25 @@
 Pages
 =====
 
-> Clicking the Pages menu item allows you to create new pages, rework
-> the layout of an existing page or add content to pages. The Pages
-> screen also allows you to work on your site as a whole. You can
-> restructure your site by moving some pages underneath other pages,
-> delete pages, publish pages so they can be seen by the public, manage
-> permissions and so on. The screenshot below shows the welcome page
-> being published from the Actions menu.
+Clicking the Pages menu item allows you to create new pages, rework
+the layout of an existing page or add content to pages. The Pages
+screen also allows you to work on your site as a whole. You can
+restructure your site by moving some pages underneath other pages,
+delete pages, publish pages so they can be seen by the public, manage
+permissions and so on. The screenshot below shows the welcome page
+being published from the Actions menu.
 
 ![](../media/image37.jpeg)
 
 ##### Page Settings
 
-> In the Getting Started section, we did a quick
-> walk-through of building a page without paying much attention to the
-> detail. As a business user, do you care about any of these other
-> settings for creating pages? Absolutely! The page settings help get
-> your page noticed by search engines like Google, Bing and Yahoo. Other
-> settings determine how your entire page is arranged. Let\'s create
-> another page and look at the settings:
+In the Getting Started section, we did a quick
+walk-through of building a page without paying much attention to the
+detail. As a business user, do you care about any of these other
+settings for creating pages? Absolutely! The page settings help get
+your page noticed by search engines like Google, Bing and Yahoo. Other
+settings determine how your entire page is arranged. Let\'s create
+another page and look at the settings:
 
 1.  From the administration site, click the Pages menu option.
 
@@ -70,9 +70,9 @@ Pages
 ![](../media/image40.png)
 
 #### Note: 
-> Google robots look for the dash symbol. Google responds best
-> when the web site name is followed by a dash \"-\", then a short
-> description. For example, \"Company XYZ - Home Page\".
+Google robots look for the dash symbol. Google responds best
+when the web site name is followed by a dash \"-\", then a short
+description. For example, \"Company XYZ - Home Page\".
 
 10. The Description, Keywords section is another section that\'s
     important to define for the best ranking by search engines. Make the
@@ -127,11 +127,11 @@ Pages
  - http://progress.com/training>
  - https://progress.com/training
  - http://www.progress.com/training
->
-> Sitefinity generates canonical urls by default for the whole site (see
-> Administration \> Settings \> Advanced settings \> System \> Content
-> Locations \> Static Pages Canonical Url) or can disabled for the page
-> using this drop down list.
+
+Sitefinity generates canonical urls by default for the whole site (see
+Administration \> Settings \> Advanced settings \> System \> Content
+Locations \> Static Pages Canonical Url) or can disabled for the page
+using this drop down list.
 
 -   The HTML included in the \<head\> tag entry allows a developer to
     add script links, style sheet links and meta tags. The text box is
@@ -144,28 +144,27 @@ Pages
 
 ##### Editing Pages
 
-> After clicking the Create and Add Content button, the new page will
-> display. If you want to navigate back to change any of the page
-> information, click the Title & Properties link.
+After clicking the Create and Add Content button, the new page will
+display. If you want to navigate back to change any of the page
+information, click the Title & Properties link.
 
 ![](../media/image44.jpeg)
 
-> The title of the page shows at the top along with the current page
-> status (should show as Draft). The page is not published and will not
-> be visible to users from the browser. The page designer shows on the
-> left and widgets on the right. Notice the buttons Content and Layout
-> at the top right that toggle between the two main views of the
-> designer. Layout shows where the content will go while Content shows
-> the widgets that will display in the page.
+The title of the page shows at the top along with the current page
+status (should show as Draft). The page is not published and will not
+be visible to users from the browser. The page designer shows on the
+left and widgets on the right. Notice the buttons Content and Layout
+at the top right that toggle between the two main views of the
+designer. Layout shows where the content will go while Content shows
+the widgets that will display in the page.
 
 ![](../media/image45.png)
 
 ##### Editing Page Content
 
-> In this walk-through, we will add some generic HTML content with our
-> contact information, and an image that represents the company and
-> dresses up the page.
->
+In this walk-through, we will add some generic HTML content with our
+contact information, and an image that represents the company and
+dresses up the page.
 
 1.  Open the *Contact Us* page for editing.
 
@@ -192,24 +191,21 @@ Pages
     just below the editor window. Paste the following into the editor
     window:
 
-> \<p\>CarConduit is headquartered in New York, NY. For more
-> information, please contact us at:\</p\>
->
-> \<p\>Toll Free:\<br /\> 888 CAR-CONDUIT \<br /\>
->
-> Phone:\<br /\>
->
-> 555-462-0457 \<br /\>
->
-> Fax:\<br /\>
->
-> 555-480-4902 \<br /\>
->
-> email:\<br /\>
->
-> \<a
-> href=\"[mailto:info\@carconduit.com](mailto:info@carconduit.com)\"\><info@carconduit.com>\</a\>
-> \</p\>
+\<p\>CarConduit is headquartered in New York, NY. For more information, please contact us at:\</p\>
+
+\<p\>Toll Free:\<br /\> 888 CAR-CONDUIT \<br /\>
+
+Phone:\<br /\>
+
+555-462-0457 \<br /\>
+
+Fax:\<br /\>
+
+555-480-4902 \<br /\>
+
+email:\<br /\>
+
+\<a href=\"[mailto:info\@carconduit.com](mailto:info@carconduit.com)\"\><info@carconduit.com>\</a\>\</p\>
 
 6.  Click the Design button, also located at the bottom of the editor
     window.
@@ -220,15 +216,15 @@ Pages
 
 ![](../media/image49.png)
 
->
-> The screenshot below shows some of the options you may not recognize.
-> In particular, notice the Image Manager used to insert \*.gif, \*.jpg
-> and \*.png images directly from your computer or out of the Sitefinity
-> database. The Paste Word button is used to get material from Word
-> documents without the usual large amount of formatting. The Format
-> Stripper is a related button that has a drop down selection of options
-> where you can strip out all the CSS, Word, Span or font elements from
-> the content.
+
+The screenshot below shows some of the options you may not recognize.
+In particular, notice the Image Manager used to insert \*.gif, \*.jpg
+and \*.png images directly from your computer or out of the Sitefinity
+database. The Paste Word button is used to get material from Word
+documents without the usual large amount of formatting. The Format
+Stripper is a related button that has a drop down selection of options
+where you can strip out all the CSS, Word, Span or font elements from
+the content.
 
 ![](../media/image51.jpeg)
 
@@ -299,23 +295,22 @@ Pages
 
 ![](../media/image65.jpeg)
 
-> The contact information is rather squashed to the right side. To see
-> how this is fixed, read on to the [[Editing
-> Layout]{.underline}](#page-editing-layout) section coming up next.
->
+The contact information is rather squashed to the right side. To see
+how this is fixed, read on to the Editing Layout section coming up next.
+
 #### Note: 
-> Are content blocks included in searches? Once indexing is
-> turned on, the content block is included in the search indexing
-> automatically. News, blogs, etc. are all included in searches.
->
+Are content blocks included in searches? Once indexing is
+turned on, the content block is included in the search indexing
+automatically. News, blogs, etc. are all included in searches.
+
 
 ##### Page Editing Layout
 
-> In the Editing Content example, we had an image of a truck pushed to the left side of the page and
-> contact information squashed well over to the right hand side. This is
-> because the predefined areas for content had too much space on the
-> left and too little on the right. By editing the layout, you can set
-> the proportions of the areas where content will go.
+In the Editing Content example, we had an image of a truck pushed to the left side of the page and
+contact information squashed well over to the right hand side. This is
+because the predefined areas for content had too much space on the
+left and too little on the right. By editing the layout, you can set
+the proportions of the areas where content will go.
 
 1.  Open the *Contact Us* page for editing. This page was created in the
     previous Editing Content example.
@@ -399,10 +394,10 @@ Now the layout of the page looks like this:
 
 ##### Tour of the HTML Editor
 
-> The HTML Editor buttons initially have a minimal set of options. You
-> can click the More Formatting Options button located on the right hand
-> side of the button bar. The screenshot below shows key editor
-> features:
+The HTML Editor buttons initially have a minimal set of options. You
+can click the More Formatting Options button located on the right hand
+side of the button bar. The screenshot below shows key editor
+features:
 
 ![](../media/image51.jpeg)
 
@@ -461,8 +456,6 @@ Now the layout of the page looks like this:
 
 ![](../media/image96.png)
 
-PAGES \| 47
-
 -   The Find & Replace button displays a dialog that can search for a
     given word or replace a found word with another. The search is
     performed from the current cursor position with the search Direction
@@ -485,8 +478,11 @@ PAGES \| 47
 
 ![](../media/image101.png)
 
-> Next, the Insert the document or other file dialog appears. Clicking
-> the Save button inserts a link to the file in the HTML Editor using
-> the text from the Title entry.
+Next, the Insert the document or other file dialog appears. Clicking
+the Save button inserts a link to the file in the HTML Editor using
+the text from the Title entry.
 
 ![](../media/image103.png)
+
+#### Next Topic
+[News](../News/readme.md)
