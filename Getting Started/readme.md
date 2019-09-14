@@ -1,19 +1,19 @@
 Getting Started
 ===============
 
-> This section explains how to create a minimal Sitefinity website. The
-> website will contain a single welcome page populated with text.
->
+This section explains how to create a minimal Sitefinity website. The
+website will contain a single welcome page populated with text.
+
 #### Note: 
-> For information on installing Sitefinity, please see the
-> [Install, upgrade and deploy Page](http://docs.sitefinity.com/install-sitefinity) of
-> the online documentation.
+For information on installing Sitefinity, please see the
+[Install, upgrade and deploy Page](http://docs.sitefinity.com/install-sitefinity) of
+the online documentation.
 
 ##### Sitefinity Project Manager
 
-> The Sitefinity Project Manager is the initial starting point for
-> creating, managing and browsing your Sitefinity website. Use this
-> application to:
+The Sitefinity Project Manager is the initial starting point for
+creating, managing and browsing your Sitefinity website. Use this
+application to:
 
 -   Create a New Project brings up the Create New Project Wizard where
     you can create a Sitefinity project on your local file system, in an
