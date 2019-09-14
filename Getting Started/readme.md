@@ -300,3 +300,6 @@ locations. *Front-end* refers to the live published site that the end
 user will see. *Back-end* refers to the administration portion that is
 used to create sites in Sitefinity. The back-end is hidden from the
 user.
+
+#### Next Topic
+[Pages](../Pages/readme.md)
