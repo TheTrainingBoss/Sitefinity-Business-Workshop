@@ -200,20 +200,15 @@ The next steps will help you create a welcome page for your website.
 ![](../media/image16.png)
 
 3.  The Create a Page entry form will display. Enter "Welcome" in the
-    Name field.
+    Title field.
 
 ![](../media/image18.jpeg)
 
-4.  Scroll further down the form and enter \"Welcome to CarConduit\" in
-    the Title for search engines field.
+4. Click the continue button
 
-![](../media/image19.png)
-
-5.  Scroll to the bottom of the form, leave the remaining entry fields
-    at their defaults and click the Create and go to add content button.
-
+5. Choose the template you desire the page will show up in the editor ready to manipulate
+   
 ![](../media/image20.png)
-
 
 6.  The editor for your new welcome page has a set of content boxes
     surrounded by dotted lines. The right site of the page is titled
@@ -237,23 +232,21 @@ The next steps will help you create a welcome page for your website.
     be accessed from the outside world yet. At this point you have the
     option to click the Save as Draft button and continue to work on the
     page without publishing it. Instead, click the Publish button to
-    make the new page visible in your new website. This step will return you to Pages administration.
+    make the new page visible in your new website.
 
 ![](../media/image26.jpeg)
 
+10. To go back to the Pages administration, click the arrow at the top left of the page.
 
-10. In Pages list locate the Welcome page in the list and click the View
+![](../media/image27.jpeg)
+
+11. In Pages list locate the Welcome page in the list and click the View
     link.
 
  ![](../media/image28.png)
 
 11. The new page will display in the browser. The address bar shows a
-    localhost address, followed by the project name, then the page name,
-    i.e.
-
-*/CarConduit/welcome*. Also the title Welcome to CarConduit appears at
-the top of the page. Finally, the content *Welcome to CarConduit!*
-displays in the page body.
+    localhost address, then the page name, i.e. *localhost:31103/welcome*.  Finally, the content *Welcome to CarConduit!* displays in the page body.
 
 ![](../media/image29.png)
 
@@ -262,10 +255,11 @@ displays in the page body.
 How do you set a default landing page to display when the user enters
 the website in the browser address bar?
 
-1.  In the Administration list of pages, click the Actions drop down
-    list and select the Set as Homepage link.
+1.  In the Administration list of pages, click the settings Gears icons.  That will open the **Set Home Page** Dialog, choose the page you desire to be the home page for the site and click **Use Selected**
 
 ![](../media/image30.jpeg)
+![](../media/image31.jpeg)
+![](../media/image32.jpeg)
 
 Notice that the home icon appears next to the page name.
 
