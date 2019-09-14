@@ -64,9 +64,6 @@ Sitefinity Business Workshop
 [Email Campaigns](./Email%20Campaigns/readme.md)
 ------------------------------------------------
 
-[ECommerce](./ECommerce/readme.md)
--------------------------------------
-
 [Custom Modules](./Custom%20Modules/readme.md)
 ----------------------------------------------
 
