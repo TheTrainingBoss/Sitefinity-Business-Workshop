@@ -124,3 +124,6 @@ Simple button returns you to the original settings view.
     section.
 
 ![](../media/image115.png)
+
+#### Next Topic
+[Blogs](../Blogs/readme.md)
