@@ -11,16 +11,15 @@ handy for when the widget only displays the titles and summaries.
 
 2.  Click the Create a news item button.
 
-3.  Enter a Title and add content text for your news article in the HTML
-    editor. Click the Click to add summary link. You'll want to add a
+3.  Enter a Title and add content text for your news article. You'll want to add a
     summary because you can display it in a list of news without
     reproducing the entire news item.
 
 ![](../media/image106.png)
 
-4.  In the Categories and Tags area of the page, use the Click to add
+4.  In the Categories and Tags area of the page, use the + image to add
     categories to initially add categories or use the Change button
-    after that. You may also enter a comma-separated list of Tags.
+    after that. You may also press enter in between tags to create a list of Tags.
     Categories and Tags help you organize content and allow search
     engines to locate and rank your content. Categories are used when
     searching the website while Tags are used by external search
@@ -35,17 +34,15 @@ handy for when the widget only displays the titles and summaries.
 
 6.  In the More options section, you can change the default URL for the
     news item to one of your choosing. Unselect the Allow comments to
-    prevent adding comments by anybody (if you want to fine-tune so that
-    only certain people can send comments, see the
-    [Administration]{.underline} section). If you want to tailor several
-    URLs to for different audiences, enable the Allow Multiple URLS for
-    this item... checkbox.
+    prevent adding comments by anybody. If you want to tailor several
+    URLs for different audiences, Add additional urls under the Additional URLS section.
 
 ![](../media/image108.png)
 
 7.  Click the Publish button.
 
-##### Using News Widgets
+Using News Widgets
+------------------
 
 This walk-through shows how to display your published news items on a
 page using a News widget.
