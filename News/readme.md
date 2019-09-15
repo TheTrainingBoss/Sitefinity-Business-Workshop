@@ -56,6 +56,8 @@ page using a News widget.
 4.  Notice that all news items you have created show up in the list
     along with the one line summary and a link to the full news story.
 
+![](../media/image108B.png)
+
 5.  Click the Edit link at the top of the News widget. Notice the three
     different sections you can use to tailor the presentation of the
     news: Content, List Settings and Single Item Settings. Content lets
@@ -86,20 +88,12 @@ page using a News widget.
 -   The Sort news drop down list allows you to order news items by Last
     published on top, Last Modified on top, By Title (A-Z), by Title
     (Z-A) or As set in Advanced Mode. 
+    
     #### Note: 
     The Advanced Mode allows a developer to customize the sort via Advanced Settings.
 
 -   List template determines how the news content will be formatted on
-    the page. Typically you will choose one of the predefined templates
-    on the left, such as Titles and Dates. Telerik has presented you
-    with the usual industry standard layouts, but if you need a specific layout, you will not hit the wall. Clicking the Edit selected template button allows you to change the layout and content of the template.
-
-#### Note: 
-Tweaking the template does involve working in HTML, but
-you\'re supplied with all the fields that Sitefinity has access to.
-Sitefinity creates the HTML you need so you can cut and paste to your
-template and go from there.
-
+    the page. Typically you will see only one item in the list and that is the default view of the News Template but your designers and developers can create more views for you to choose from in that list.
 
 7.  Click the Single Item Settings of the News dialog. Single Item
     Settings let you choose between Auto-generated page or select an
