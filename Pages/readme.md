@@ -202,10 +202,8 @@ the content.
 
 9.  The editor can automatically detect web and email addresses. Select
     [*info\@carconduit.com*,](mailto:info@carconduit.com) then click the
-    Hyperlink Manager
-    ![](../media/image52.png). Notice that the LinkTo: Email
-    option is already selected and the email address is already filled
-    in.
+    Hyperlink Manager.
+    Notice that the LinkTo: Email option is already selected and the email address is already filled in.
 
 12. Click the Save button to close the editor. 
 
