@@ -3,9 +3,9 @@ News
 
 ##### Creating a News Item
 
-> News has four sections. The top section is for the Title and the main
-> content of the news article. You can also add a summary which comes in
-> handy for when the widget only displays the titles and summaries.
+News has four sections. The top section is for the Title and the main
+content of the news article. You can also add a summary which comes in
+handy for when the widget only displays the titles and summaries.
 
 1.  From the administration menu, click Content \> News.
 
@@ -16,7 +16,7 @@ News
     summary because you can display it in a list of news without
     reproducing the entire news item.
 
-![](../media/image105.png)
+![](../media/image106.png)
 
 4.  In the Categories and Tags area of the page, use the Click to add
     categories to initially add categories or use the Change button
@@ -47,8 +47,8 @@ News
 
 ##### Using News Widgets
 
-> This walk-through shows how to display your published news items on a
-> page using a News widget.
+This walk-through shows how to display your published news items on a
+page using a News widget.
 
 1.  Create and publish a second news item
 
@@ -90,7 +90,7 @@ News
     published on top, Last Modified on top, By Title (A-Z), by Title
     (Z-A) or As set in Advanced Mode. 
     #### Note: 
-    > The Advanced Mode allows a developer to customize the sort via Advanced Settings.
+    The Advanced Mode allows a developer to customize the sort via Advanced Settings.
 
 -   List template determines how the news content will be formatted on
     the page. Typically you will choose one of the predefined templates
@@ -98,11 +98,10 @@ News
     with the usual industry standard layouts, but if you need a specific layout, you will not hit the wall. Clicking the Edit selected template button allows you to change the layout and content of the template.
 
 #### Note: 
-> Tweaking the template does involve working in HTML, but
-> you\'re supplied with all the fields that Sitefinity has access to.
-> Sitefinity creates the HTML you need so you can cut and paste to your
-> template and go from there.
->
+Tweaking the template does involve working in HTML, but
+you\'re supplied with all the fields that Sitefinity has access to.
+Sitefinity creates the HTML you need so you can cut and paste to your
+template and go from there.
 
 
 7.  Click the Single Item Settings of the News dialog. Single Item
@@ -116,12 +115,12 @@ News
 ![](../media/image112.png)
 
 #### Note: 
-> What does the Advanced button do? This option is available
-> on widget dialogs and shows a list of all possible properties for the
-> widget. For example, if your organization\'s designer adds a CSS
-> (Cascading Style Sheet) file to the Sitefinity project, you could
-> enter the name of a style in the CssClass property. Clicking the
-> Simple button returns you to the original settings view.
+What does the Advanced button do? This option is available
+on widget dialogs and shows a list of all possible properties for the
+widget. For example, if your organization\'s designer adds a CSS
+(Cascading Style Sheet) file to the Sitefinity project, you could
+enter the name of a style in the CssClass property. Clicking the
+Simple button returns you to the original settings view.
 
 8.  Click the Publish button for the page.
 
