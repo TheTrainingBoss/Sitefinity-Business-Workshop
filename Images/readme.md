@@ -1,26 +1,25 @@
 Images
 ======
 
-> Images are stored centrally so that they can be used throughout your
-> website. Sitefinity will help present the image in different sizes and
-> will also create thumbnails automatically. Thumbnails are smaller
-> versions of an image that can be previewed before opening a larger
-> version.
+Images are stored centrally so that they can be used throughout your
+website. Sitefinity will help present the image in different sizes and
+will also create thumbnails automatically. Thumbnails are smaller
+versions of an image that can be previewed before opening a larger
+version.
 
 ##### Image Libraries
 
-> Images are stored in Libraries. Libraries are logical groupings of
-> images to make it easier for you to find images, to display only
-> subsets of the available images and to manage groups of images. For
-> example, you might have images of signatures that are security
-> sensitive that you want to keep separate from other images. Libraries
-> can be secured separately by setting permissions per library. Image
-> libraries can be arranged in a tree structure hierarchy.
+Images are stored in Libraries. Libraries are logical groupings of
+images to make it easier for you to find images, to display only
+subsets of the available images and to manage groups of images. For
+example, you might have images of signatures that are security
+sensitive that you want to keep separate from other images. Libraries
+can be secured separately by setting permissions per library. Image
+libraries can be arranged in a tree structure hierarchy.
 
 ##### Creating Image Libraries
 
-> This walk-through demonstrates how to create a library to hold your
-> images.
+This walk-through demonstrates how to create a library to hold your images.
 
 1.  From the administration page, click the Content \> Images menu item.
 
@@ -34,8 +33,8 @@ Images
 
 ##### Uploading Images
 
-> This walk-through demonstrates how to populate a library with images
-> by uploading from your computer.
+This walk-through demonstrates how to populate a library with images
+by uploading from your computer.
 
 1.  Click the Upload Images button.
 
@@ -52,23 +51,21 @@ Images
 
 4.  In the Upload Images page, click the Change button located next to
     the Where to store uploaded images? Select a library and click the
-    Done button.
+    Upload button.
 
 ![](../media/image175.png)
 
-5.  Click the Upload and Publish button to store the images.
-
-6.  Wait a moment as all the images are uploaded. When the images have
+5.  Wait a moment as all the images are uploaded. When the images have
     been successfully uploaded message displays, click the View all
     images button to return to the Images page.
 
 ![](../media/image177.png)
 
-7.  Click the link for the library where you saved your images.
+6.  Click the link for the library where you saved your images.
 
 ![](../media/image179.jpeg)
 
-8.  Review the uploaded images in the library. Each image has a checkbox
+7.  Review the uploaded images in the library. Each image has a checkbox
     so that you can operate on selected images at one time. Selected
     images can be deleted, published, moved to another library or edited
     in bulk. Editing in bulk means you can change title, alternative
@@ -78,88 +75,48 @@ Images
 
 ##### Displaying Image Content
 
-> The Image widget used on a page has a relatively simple interface
-> where you choose an image file from your computer or select it from
-> images that are already uploaded.
->
-> Editing the Image widget allows you to set the image, size, margin and
-> the behavior when the user clicks the image. The Edit all properties
-> button allows you to set a Title and Alternative text. Alternative
-> text is used by search engines and for text-to-speech readers.
+The Image widget used on a page has a relatively simple interface
+where you choose an image file from your computer or select it from
+images that are already uploaded.
+
+Editing the Image widget allows you to set the image, size, margin and
+the behavior when the user clicks the image. The Edit all properties
+button allows you to set a Title and Alternative text. Alternative
+text is used by search engines and for text-to-speech readers.
 
 ![](../media/image183.jpeg)
 
-> Use the optional Image Size drop down to show the image in small,
-> medium, original size, one of several predefined thumbnail dimensions
-> or in any Custom size.
+Use the optional Image Size drop down to show the image in small,
+medium, original size, one of several predefined thumbnail dimensions
+or in any Custom size.
 
 ![](../media/image185.png)
 
-> When the page is previewed, the Title shows up as a tooltip in most
-> modern browsers.
+When the page is previewed, the Title shows up as a tooltip in most
+modern browsers.
 
 ![](../media/image186.jpeg)
 
-> The Image Gallery widget can show all published images or just images
-> from a specific library. Filter the images that display by selecting
-> only images in certain categories and tags. Filter by date to show
-> images published in certain time periods such as last week or within a
-> custom date range.
+The Image Gallery widget can show all published images or just images
+from a specific library. Filter the images that display by selecting
+only images in certain categories and tags. Filter by date to show
+images published in certain time periods such as last week or within a
+custom date range.
 
 ![](../media/image187.png)
 
-> The Settings section of the dialog formats the collection of images.
-> You can display the images as a simple list of full size images. You
-> can also display the collection as a list of thumbnails the user can
-> click that show the full image in a detail page. The full image can
-> also be shown in a lightbox style overlay or by showing the full-size
-> image on the same page.
+The List Settings tab of the dialog allows the formatting of the way the images are displayed.
+You can display the images as a simple list of full size images. You
+can also display the collection as a list of thumbnails the user can
+click to show the full image in a detail page. The full image can
+also be shown in a lightbox style overlay or by showing the full-size
+image on the same page.
 
 ![](../media/image189.png)
 
-> The screenshot below shows the Thumbnails + Overlay (lightbox) gallery type.
+The screenshot below shows the Thumbnails + Overlay (lightbox) gallery type.
 
 ![](../media/image191.jpeg)
 
-> Here is a quick overview of what the available gallery types look like
-> in a live page. Thumbnails + Detail page lists the image left to
-> right, top to bottom. When you click on an image, the image is
-> displayed in an entirely new detail page. Depending on the settings,
-> the detail page may also have links to previous and next images or
-> previous and next thumbnails.
-
-![](../media/image192.jpeg)
-
-> Thumbnails + Overlay improves the user experience by displaying a
-> selected image over the top of the gallery images.
-
-![](../media/image194.jpeg)
-
-> Thumbnail strip makes it easy to navigate between images by displaying
-> images in a strip at the bottom of the widget and the selected image
-> above the strip, all on the same page.
-
-![](../media/image196.jpeg)
-
-> Simple List displays all the images vertically but the images are not
-> clickable and there is no detail view.
->
-> The entries for the Fine tune the selected type section of the Image
-> Gallery dialog varies, depending on the selected gallery type:
-
--   For all types but the Thumbnail strip, there are three common
-    options. The first two limit the number of images displayed. These
-    two options are the recommended way to go. The first option, Use
-    paging, limits the number of thumbnails displayed at any one time.
-    The second option, Use limit, puts an absolute limit on the number
-    of images shown. The No limit and paging option could be slow if
-    there are a lot of images and could be difficult for the user to
-    navigate.
-
--   If you select Thumbnails + Detail, the Fine tune\... section
-    includes a checkbox that shows links to previous and next images.
-
--   The lightbox option resizes the detail image automatically. You may
-    need to get larger, higher quality images to display in the
-    lightbox. It\'s also a good idea to make sure the images that
-    display together in the lightbox are a similar size.
+#### Next Topic
+[Videos](../Videos/readme.md)
