@@ -1,19 +1,19 @@
 Localization
 ============
 
-> Localization allows you to display your website in any language. The
-> ability to localize your entire site to any language is baked right
-> into Sitefinity. Not only text, but any other content relevant to the
-> culture of your website visitor is configurable. The back- end of the
-> website is also fully localizable. All menu items, button text,
-> labels, etc. are localizable. Search for \"Language Packs\" here:
->
-> [*http://www.sitefinity.com/marketplace/modules.aspx.*](http://www.sitefinity.com/marketplace/modules.aspx)
+Localization allows you to display your website in any language. The
+ability to localize your entire site to any language is baked right
+into Sitefinity. Not only text, but any other content relevant to the
+culture of your website visitor is configurable. The back- end of the
+website is also fully localizable. All menu items, button text,
+labels, etc. are localizable. Search for \"Language Packs\" here:
+
+[*http://www.sitefinity.com/marketplace/modules.aspx.*](http://www.sitefinity.com/marketplace/modules.aspx)
 
 ##### Localizing Front End Pages
 
-> In this next walk through we will add the Spanish language and
-> localize a front-end page to reflect the language choice.
+In this next walk through we will add the Spanish language and
+localize a front-end page to reflect the language choice.
 
 1.  Select the administration menu Settings option.
 
@@ -32,18 +32,18 @@ Localization
 
 ![](../media/image525.png)
 
-> Below the Languages for public content section is the Default language
-> for the backend system. You can change the language for the backend
-> system by clicking the Manage backend languages link and adding
-> languages there. Leave the default setting for this example.
+Below the Languages for public content section is the Default language
+for the backend system. You can change the language for the backend
+system by clicking the Manage backend languages link and adding
+languages there. Leave the default setting for this example.
 
 6.  Click the Save changes button.
 
-> Select the administration menu Pages option. This option will take
-> extra time because Sitefinity needs to accommodate the new languages
-> by making database changes. When the list refreshes, all the pages in
-> the site are \"localization ready\" and have a new Translations
-> column.
+Select the administration menu Pages option. This option will take
+extra time because Sitefinity needs to accommodate the new languages
+by making database changes. When the list refreshes, all the pages in
+the site are \"localization ready\" and have a new Translations
+column.
 
 ![](../media/image526.png)
 
@@ -71,10 +71,10 @@ Localization
 
 ![](../media/image529.png)
 
-> The translated page displays. Notice the message at the top of the
-> page that lets you know that the pages are synced and what kind of
-> behavior you can expect while designing the page.
->
+The translated page displays. Notice the message at the top of the
+page that lets you know that the pages are synced and what kind of
+behavior you can expect while designing the page.
+
 ![](../media/image531.jpeg)
 
 12. Click the content block Edit button (if you don't have a Content
@@ -93,9 +93,9 @@ Localization
 
 ##### User Language Selection
 
-> You can use the Language selector widget right in your page so that
-> the user can dynamically choose the language they want to view the
-> page in.
+You can use the Language selector widget right in your page so that
+the user can dynamically choose the language they want to view the
+page in.
 
 1.  Open the localized page for editing again.
 
@@ -105,18 +105,21 @@ Localization
 3.  Click the language selector widget Edit button. In the Display
     language selector as\... option, select Drop-down menu.
 
-> Also notice the checkbox option to include the current language in the
-> selector.
->
-> What to do with languages without translations? Your options are to
-> Hide the link to the missing translation or Redirect to the home
-> page\...
+Also notice the checkbox option to include the current language in the
+selector.
+
+What to do with languages without translations? Your options are to
+Hide the link to the missing translation or Redirect to the home
+page\...
 
 ![](../media/image535.png)
 
 4.  Click the Save button to close the dialog.
 
-> Publish and view the page. Use the drop down language selector to show
-> both translations of the page.
+Publish and view the page. Use the drop down language selector to show
+both translations of the page.
 
 ![](../media/image536.png)
+
+#### Next Topic
+[Page Administration](../Page%20Administration/readme.md)
