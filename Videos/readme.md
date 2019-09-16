@@ -1,8 +1,8 @@
 Videos
 ======
 
-> Before you start uploading lots of videos to Sitefinity, be aware of
-> how videos are stored, retrieved and played back.
+Before you start uploading lots of videos to Sitefinity, be aware of
+how videos are stored, retrieved and played back.
 
 -   When a video is uploaded to Sitefinity, by default, the video is
     uploaded to the database, not as a separate file. So if you upload a
@@ -19,9 +19,9 @@ Videos
 
 ##### Uploading and Configuring Video
 
-> Videos are handled very much like Images and are uploaded to
-> Libraries. Sitefinity uses an HTML5 player that can handle \*.mp4,
-> \*.webm and \*.ogv formats.
+Videos are handled very much like Images and are uploaded to
+Libraries. Sitefinity uses an HTML5 player that can handle \*.mp4,
+\*.webm and \*.ogv formats.
 
 1.  From the administration menu select Content \> Videos.
 
@@ -70,9 +70,9 @@ Videos
 ![](../media/image205.jpeg)
 
 #### Note: 
-> You can now select the Upload custom image button to use an
-> uploaded image or an image from a library as the thumbnail for the
-> video.
+You can now select the Upload custom image button to use an
+uploaded image or an image from a library as the thumbnail for the
+video.
 
 12. Click the Publish button for the video. The published video now
     displays the new thumbnail.
@@ -130,8 +130,7 @@ To use video content on a page:
     number of items the gallery shows and the size of the thumbnails. To
     get the best control over
 
-> your page real estate, select either the Use paging or Use limit
-> options.
+your page real estate, select either the Use paging or Use limit options.
 
 ![](../media/image210.png)
 
@@ -141,18 +140,21 @@ To use video content on a page:
 
 ##### Using YouTube Videos
 
-> You can even play YouTube videos or playlists. Just go to YouTube,
-> right-click a playing video and select Copy Video URL from the context
-> menu. Edit the Video widget and select the Advanced button. Scroll to
-> the end and paste into the YouTubeVideoUrl property.
+You can even play YouTube videos or playlists. Just go to YouTube,
+right-click a playing video and select Copy Video URL from the context
+menu. Edit the Video widget and select the Advanced button. Scroll to
+the end and paste into the YouTubeVideoUrl property.
 
 ![](../media/image211.png)
 
-> To add a YouTube playlist, first get the playlist id using the YouTube
-> playlist Share button. This should be the ID of the playlist, not the
-> entire embedded URL. Paste the playlist id to the YouTubePlaylistID
-> advanced property. When you publish the page that uses it, the video
-> and other items in the playlist will appear. Even when items are added
-> to the playlist in YouTube, they are automatically shown on the page.
+To add a YouTube playlist, first get the playlist id using the YouTube
+playlist Share button. This should be the ID of the playlist, not the
+entire embedded URL. Paste the playlist id to the YouTubePlaylistID
+advanced property. When you publish the page that uses it, the video
+and other items in the playlist will appear. Even when items are added
+to the playlist in YouTube, they are automatically shown on the page.
 
 ![](../media/image213.jpeg)
+
+#### Next Topic
+[Documents & Files](../Documents%20and%20Files/readme.md)
