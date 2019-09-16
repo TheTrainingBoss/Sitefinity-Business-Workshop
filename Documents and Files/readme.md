@@ -1,14 +1,13 @@
 Documents & Files
 =================
 
-> Use Documents when you want to include a link to a PDF, Word, Excel or
-> other file. Documents are contained in Libraries. You can display
-> links to a single document or all documents in a library.
+Use Documents when you want to include a link to a PDF, Word, Excel or
+other file. Documents are contained in Libraries. You can display
+links to a single document or all documents in a library.
 
 ##### Create Libraries and Documents
 
-1.  From the administration menu Content, select the Documents & Files
-    option.
+1.  From the administration menu Content, select the Documents & Files option.
 
 2.  Click the Create a library link.
 
@@ -51,9 +50,10 @@ Documents & Files
 
 13. Close the window.
 
-##### Add Document Links to Pages
+Add Document Links to Pages
+-----------------------------
 
-> How do you add a link to a document or show a list of documents on the page?
+How do you add a link to a document or show a list of documents on the page?
 
 1.  Click the Pages menu item.
 
@@ -84,45 +84,31 @@ Documents & Files
 10. Delete the Document link widget from the page using the More \>
     Delete link.
 
-11. Drag a Download list widget to the bottom of the page. By default,
+11. Drag a Documents List widget to the bottom of the page. By default,
     the list will show all the documents from all libraries.
 
-12. Click the Download List widget Edit button. Using the dialog, you
-    can include all documents, from a selected library or upload new
-    documents. The documents can be sorted by Last published, Last
-    Modified, As they are ordered in library and As set in Advanced
-    mode.
+12. Click the Documents List widget Edit button. Using the dialog, you
+    can include all documents, from a selected library or from the currently opened library. 
 
 ![](../media/image223.png)
 
-13. Click the Settings link to manage the layout details of the widget.
-    There are two areas, Select type and Fine tune the selected type.
+13. Click the List Settings link to manage the layout details of the widget. The documents can be sorted by Last published, Last
+    Modified, As they are ordered in library and As set in Advanced mode.
 
 ![](../media/image224.png)
 
-The type selected outputs one of these formats:
-
--   The List type displays with the link at the top of each file.
+You get to choose between a list or a table view under the List Template
 
 ![](../media/image226.jpeg)
 
--   The Table type arranges the document information in a grid with the
+-   The Table option arranges the document information in a grid with the
     link to the right side of each entry.
 
 ![](../media/image228.jpeg)
 
--   The last two options display the list or table with a link to a
-    detail page where you can download the file.
-
-![](../media/image230.jpeg)
-
--   The Fine tune\... part of the dialog changes slightly based on the
-    selected type. The section at the top controls the number of files
-    shown at one time. The lower part of the dialog controls whether
-    icons are shown on the page and their size.
-
-![](../media/image232.png)
-
-14. Click the Save button to close the Download list dialog.
+14. Click the Save button to close the Documents list dialog.
 
 15. Publish and view the page.
+
+#### Next Topic
+[Forms](../Forms/readme.md)
