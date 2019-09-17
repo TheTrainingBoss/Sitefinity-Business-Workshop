@@ -17,8 +17,9 @@ localize a front-end page to reflect the language choice.
 
 1.  Select the administration menu Settings option.
 
-2.  From the list on the left side of the page select the Languages
-    option.
+2.  From the list on the left side of the page select the Languages option.
+
+![](../media/image523.png)
 
 3.  Click the Add languages\... button.
 
@@ -31,6 +32,13 @@ localize a front-end page to reflect the language choice.
     under the default *English* entry.
 
 ![](../media/image525.png)
+
+**Note:**
+If you are running the enterprise version with Multisite, you will also need to add the Spanish language from the **Manage Sites**
+
+![](../media/image525B.png)
+
+![](../media/image525C.png)
 
 Below the Languages for public content section is the Default language
 for the backend system. You can change the language for the backend
@@ -53,31 +61,17 @@ column.
 ![](../media/image527.png)
 
 8.  Create a page (ES) displays so you can supply a new page Name, URL
-    and Title in the appropriate language.
+    and decide whether you want to copy the content and widgets from a different language or start from scratch.
 
 ![](../media/image528.png)
 
 9.  Click the Create and go to add content button.
 
-10. At this point your options are Copy from another language, or Start
-    from Scratch. The first option is especially productive if you have
-    images that you want to copy between versions. Click the Copy from
-    another language link.
 
-11. The Copy content from another language dialog displays. The English
-    language is the only version available for this page, so the drop
-    down list is disabled. Select the Keep all language versions synced
-    check box. Click the Done button to close the dialog.
+The Spanish page displays. 
 
-![](../media/image529.png)
 
-The translated page displays. Notice the message at the top of the
-page that lets you know that the pages are synced and what kind of
-behavior you can expect while designing the page.
-
-![](../media/image531.jpeg)
-
-12. Click the content block Edit button (if you don't have a Content
+10. Click the content block Edit button (if you don't have a Content
     Block on the page, add one now).
 
 13. Paste *Bienvenido a CarConduit!* into the editor window. Click the
@@ -91,7 +85,10 @@ behavior you can expect while designing the page.
 
 ![](../media/image533.png)
 
-##### User Language Selection
+![](../media/image533B.png)
+
+User Language Selection
+-----------------------
 
 You can use the Language selector widget right in your page so that
 the user can dynamically choose the language they want to view the
@@ -101,6 +98,8 @@ page in.
 
 2.  Open the Navigation section of the right hand menu. Drag the
     Language selector widget to the top of the page.
+
+![](../media/image534.png)
 
 3.  Click the language selector widget Edit button. In the Display
     language selector as\... option, select Drop-down menu.
