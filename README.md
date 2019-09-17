@@ -23,6 +23,8 @@ this document
 
 ![](./media/SitefinityTraining.png)
 
+This workshop is to get Site Contributors up and running quickly with Sitefinity and allow them to manage a site content with ease.  This workshop will help you manage a Sitefinity site (Pages, News, Blogs, Events, Lists, Images, Videos, Forms, Documents, Content Blocks, email Campaigns, Localizations and other topics that will get you to master the use of Sitefinity in no time).  I hope you enjoy using Sitefinity as much I have been for 14 years.
+
 #### Table of Contents
 
 [Introduction](./Introduction/readme.md)
