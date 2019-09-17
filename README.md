@@ -1,5 +1,5 @@
-Sitefinity Business Workshop
--------------------------------
+Sitefinity Business Workshop for site Contributors
+--------------------------------------------------
 
 ###### ©2019 Alain "Lino" Tadros
 
