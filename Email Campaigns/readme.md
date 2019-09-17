@@ -32,7 +32,8 @@ email was received; how many were delivered, opened and clicked
 through.
 
 
-##### Subscribers and Mailing Lists
+Subscribers and Mailing Lists
+------------------------------
 
 Subscribers form the pool of addresses that you can send email to.
 Each subscriber has a first name, last name and email address. Mailing
@@ -50,7 +51,8 @@ of a mailing list. These last two options give your site visitors
 control over the email they receive and allow you to place content
 where it will be well received and get the best reaction.
 
-##### Creating a Mailing List
+Creating a Mailing List
+------------------------
 
 To launch a campaign, start by creating a mailing list of subscribers.
 This walk-through demonstrates how to initially setup your mailing
@@ -66,7 +68,7 @@ spreadsheet applications like Excel.
     header of the data. The last three rows are made up of email
     address, first name and last name.
 
-### Email,First,Last rjones\@gmail.com,Riley,Jones pksmith\@gmail.com,Percy,Kant tborialis\@whitehall.uk,Terrance,Borialis
+![](../media/image311.png)
 
 2.  From the Marketing menu item, click the Mailing lists menu option.
 
@@ -110,29 +112,17 @@ Notice that the Subscribers column now has a single entry.
 
 ![](../media/image320.png)
 
-9.  From the More actions menu, click the Import subscribers option.
+9.  From the actions menu again on the existing Monthly Newsletter, click the Import option.
 
 ![](../media/image322.png)
 
 10. In the text box at the top of the dialog, use the Browse button to
     locate and select the *Subscribers.csv* you created in step 1. Leave
-    the default file format
-
-(Comma separated), columns to use (first, second and third) and Skip
-the first row (checked). In the Mailing lists section, click the
-Select mailing lists button.
+    the default file format (Comma separated), columns to use (first, second and third) and Skip the first row (checked). In the Mailing lists section, click the Select mailing lists button.
 
 ![](../media/image324.png)
 
-11. Check the *CarConduit Monthly Newsletter* box and then click the
-    Done selecting button.
-
-![](../media/image326.png)
-
-12. Leave the remaining defaults and click the Import button.
-
-13. The Subscribers column now shows a link for 4 subscribers. Click the
-    link.
+11. The Subscribers column now shows a link for 4 subscribers. Click the link.
 
 ![](../media/image328.png)
 
@@ -141,9 +131,10 @@ email addresses.
 
 ![](../media/image330.png)
 
-14. Click the Close button.
+12. Click the Close button.
 
-##### Creating a Campaign and First Issue
+Creating a Campaign and First Issue
+------------------------------------
 
 Creating the campaign brings the content and the mailing list
 together. Somewhere in your email you should have a "call to action",
@@ -221,11 +212,10 @@ version entered manually.
 
 Welcome . In this issue:
 
-The latest innovative technologies Classic car of the month
+The latest innovative technologies 
+Classic car of the month
 Restoration tips and tricks
-
 LA Muscle cars
-
 Are you a gearhead?
 
 
@@ -271,6 +261,8 @@ Are you a gearhead?
 
 ![](../media/image352.jpeg)
 
+#### Note: If the administrator of the site already set up the Email Profile to enable the site to send emails, you can proceed.
+
 25. Click the Send this issue button. This will send the issue to all
     email addresses in the subscriber list for the campaign.
 
@@ -282,7 +274,7 @@ screenshot below.
 
 ##### Issue Actions
 
-The Send this issue button to sends the email immediately or you can
+The Send this issue button to send the email immediately or you can
 use the additional operations found under More actions. The screenshot
 below shows the operations you can perform against an issue:
 
@@ -416,7 +408,8 @@ for each version of the issue.
 
 ![](../media/image380.png)
 
-##### Message Templates
+Message Templates
+------------------
 
 When you create a new campaign you have the choice of creating the
 format from scratch or using a message template. Message templates
@@ -458,7 +451,8 @@ there, click the Create and go to add the first issue button.
 
 ![](../media/image385.png)
 
-##### Providing a Link to Subscribe
+Providing a Link to Subscribe
+-----------------------------
 
 You can allow the user to "opt in" to any email campaign on any page
 using the Subscribe form widget. Drop the Subscribe form widget from
@@ -475,7 +469,8 @@ The finished form looks something like the screenshot below.
 When the Subscribe to the mailing list button is clicked by the user,
 their information is added to the selected mailing list.
 
-##### Providing a Link to Unsubscribe
+Providing a Link to Unsubscribe
+--------------------------------
 
 To setup a link in the email that lets the user easily unsubscribe on
 their own, do the following:
