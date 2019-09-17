@@ -11,12 +11,11 @@ the right, the Manage Pages area.
 
 ![](../media/image537.png)
 
-##### Page List
+Page List
+----------
 
-![](../media/image539.png)![](../media/image540.png)
 Pages are listed in a tree structure.
-The screenshot below shows a *Welcome* page, with a *Contact Us* page
-underneath it. Notice the house icon that lets us know that *Welcome*
+The screenshot below shows a *Welcome* page, with a couple pages underneath it. Notice the house icon that lets us know that *Welcome*
 page is the default home page. Also notice the green check marks that
 indicate these pages are published. Click the name of the page to edit
 the page or click the View link to preview the page at any time in a
@@ -38,9 +37,7 @@ By default, Sitefinity sends deleted pages to a [recycle
 bin](http://docs.sitefinity.com/recycle-bin)
 
 Use Duplicate if you want to use the existing page as a starting
-point. Set as Homepage makes the selected page the default if you
-navigate to the website without specifying a particular page. Share
-preview link\... creates a temporary link (expires in one day by
+point. Share preview link\... creates a temporary link (expires in one day by
 default) that you can paste into an email or instant message.
 
 Create a child page adds a new page underneath the current page in the
@@ -54,16 +51,12 @@ changes and when. If a later version has serious mistakes, you can
 revert to any earlier version.
 
 ![](../media/image542.jpeg)
+
 The Change section of the Actions menu allows you to change the Template for the
-page. For example, if you want the page that has a single column and
-header and footer to use the Apple Promo style layout with three
-columns, then you can change the template for the entire page.
+page. 
 Changing page Owner lets you pass off certain pages to other team
 members so that they can search for pages that they have
 responsibility for.
-
-Use the Move\... section Up and Down options to move the page in the
-tree hierarchy.
 
 More options may show up on this menu depending on the state of the
 page. For example, if the page is locked, the Unlock option will
@@ -72,7 +65,8 @@ have the appropriate permissions. For example, you might not see the
 Change Owner option if you don\'t have the correct permissions.
 
 
-##### Revision History
+Revision History
+----------------
 
 When you click the Save button, content is recorded in the revision
 history (shown on the right of the screenshot below). The revision
@@ -81,35 +75,22 @@ and add notes to particular versions.
 
 ![](../media/image543.png)
 
-##### Manage Pages
+Manage Pages
+------------
 
 As you build your production website, it becomes harder to locate
 pages when you want to maintain them. The Manage Pages area to the
-right of the page list allows you to filter pages quickly. The filters
-in the screenshot below are not random, but reflect Telerik\'s
-experience working with Sitefinity customers in real-world situations.
-For
-
-![](../media/image545.jpeg)
-example, lack of descriptions or keywords are not best practice for Search
-Engine Optimization.
-
-You can use the With No Keywords filter for example to get the pages
-where keywords were left out. You can, of course, just filter to show
-only your own pages. Using the by Date modified\... filter you can
-look at the most recent changes, or use a custom date and time range.
-
-The Manage also \> Templates option is a shortcut for Design \> Page
-Templates.
+right of the page list allows you to filter pages quickly. 
 
 The Permissions for all pages option allows you to change the access
 to all pages at one time. This option controls what roles can view,
 edit, modify, and change permissions and so forth.
 
-The Custom fields for page]{.underline option allows you to attach extra information to your page.
+The Custom fields for page option allows you to attach extra information to your page.
 
 
-##### Function Bar
+Function Bar
+------------
 
 The buttons along the top of the pages list work against all selected
 pages at one time. The checkboxes to the left of each page indicate
@@ -129,7 +110,8 @@ the unfiltered list of items.
 
 ![](../media/image548.jpeg)
 
-##### Sharing Pages with Unauthorized Users
+Sharing Pages with Unauthorized Users
+--------------------------------------
 
 You may need to share page links with people that don't have a user
 name or password in your Sitefinity site. For example, you may want
@@ -163,7 +145,8 @@ expires.
 
 ![](../media/image554.png)
 
-##### Custom Fields for Pages
+Custom Fields for Pages
+-----------------------
 
 The ability to create your own arbitrary fields for pages has been a
 top customer request. The *custom fields for pages* feature now allow
@@ -177,11 +160,10 @@ custom banner images, icons or other styling for each page based on a
 custom field.
 
 #### Note: 
-You can [define custom fields just like this for the other
-content types]{.underline} and for [custom data types]{.underline}.
+You can define custom fields for the other content types and for custom data types.
 
 To create a custom field, navigate to Pages from the administration
-menu. On the right- hand side under Manage Pages, click the Custom
+menu. On the right- hand side click the gear icon to Manage Pages, click the Custom
 fields link.
 
 ![](../media/image555.png)
@@ -222,9 +204,7 @@ Save changes button.
 ![](../media/image560.png)
 
 Now, navigate to any specific page and click the Title and Properties
-link at the top of the screen.
-
-![](../media/image561.png)
+link from the action menu on the page.
 
 In the Edit the Page screen that shows, scroll down to the bottom to
 find the entry for your new field. Enter content to the new field and
@@ -232,7 +212,8 @@ then click the Save changes button.
 
 ![](../media/image563.png)
 
-##### Personalization
+Personalization
+---------------
 
 Personalization lets you display different versions of a page to those
 that belong to a particular *user segment*. A *user segment* is a
@@ -250,14 +231,12 @@ Before you can personalize pages, your administrator needs to set up
 user segments in Marketing \> Personalization. For this example, there
 is a *Luxury Cars* segment and a *Clothes* segment.
 
-To personalize a page, you can either start from the Pages
-administration and select Personalization from the Actions drop down
-list or you can edit a page and click the Personalize this page
-button. In this example, we start by editing a new page called
+To personalize a page, you can click on the top left icon dropdown to personailze widgets. 
+In this example, we start by editing a new page called
 *Suggestions*. The page has a single content block at the top with
 text *Suggestions for you* in a heading style. From here:
 
-1.  Click the Personalize this page from the top right row of buttons.
+1.  Click the **Create Personalized Page**
 
 ![](../media/image564.png)
 
@@ -266,9 +245,7 @@ text *Suggestions for you* in a heading style. From here:
 
 ![](../media/image566.png)
 
-Notice that the page title *Suggestions* is appended with a drop down
-list that displays *Luxury Cars*. The list will include each
-personalization and an entry for *Everyone*.
+Notice that the page title has a drop down now of a list that displays *Luxury Cars*. The list will include each personalization and an entry for *Everyone*.
 
 ![](../media/image568.png)
 
@@ -280,8 +257,6 @@ personalization and an entry for *Everyone*.
     this page button, for every user segment. For example, we can
     personalize the page for the Clothes user segment by adding an
     Ecommerce product list widget.
-
-![](../media/image572.jpeg)
 
 The Pages list will now show a Personalized link. Clicking the link
 will allow you to edit any of the personalized pages.
